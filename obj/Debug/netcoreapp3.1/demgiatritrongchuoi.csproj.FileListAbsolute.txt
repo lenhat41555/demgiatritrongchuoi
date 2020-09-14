@@ -1,0 +1,13 @@
+C:\LN\demgiatritrongchuoi\bin\Debug\netcoreapp3.1\demgiatritrongchuoi.exe
+C:\LN\demgiatritrongchuoi\bin\Debug\netcoreapp3.1\demgiatritrongchuoi.deps.json
+C:\LN\demgiatritrongchuoi\bin\Debug\netcoreapp3.1\demgiatritrongchuoi.runtimeconfig.json
+C:\LN\demgiatritrongchuoi\bin\Debug\netcoreapp3.1\demgiatritrongchuoi.runtimeconfig.dev.json
+C:\LN\demgiatritrongchuoi\bin\Debug\netcoreapp3.1\demgiatritrongchuoi.dll
+C:\LN\demgiatritrongchuoi\bin\Debug\netcoreapp3.1\demgiatritrongchuoi.pdb
+C:\LN\demgiatritrongchuoi\obj\Debug\netcoreapp3.1\demgiatritrongchuoi.csprojAssemblyReference.cache
+C:\LN\demgiatritrongchuoi\obj\Debug\netcoreapp3.1\demgiatritrongchuoi.AssemblyInfoInputs.cache
+C:\LN\demgiatritrongchuoi\obj\Debug\netcoreapp3.1\demgiatritrongchuoi.AssemblyInfo.cs
+C:\LN\demgiatritrongchuoi\obj\Debug\netcoreapp3.1\demgiatritrongchuoi.csproj.CoreCompileInputs.cache
+C:\LN\demgiatritrongchuoi\obj\Debug\netcoreapp3.1\demgiatritrongchuoi.dll
+C:\LN\demgiatritrongchuoi\obj\Debug\netcoreapp3.1\demgiatritrongchuoi.pdb
+C:\LN\demgiatritrongchuoi\obj\Debug\netcoreapp3.1\demgiatritrongchuoi.genruntimeconfig.cache
